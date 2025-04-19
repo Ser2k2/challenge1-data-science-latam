@@ -8,4 +8,4 @@
 - Matplolib
 - Numpy
 
-<p>Tambien necesita tener una cuenta en *[Google Colab](https://colab.google)*. </p>
+<p>Tambien necesita tener una cuenta en [Google Colab](https://colab.google). </p>

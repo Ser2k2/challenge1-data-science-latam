@@ -4,6 +4,6 @@
 
 <p>Para poder ejecutar el programa necesita lo siguientes librerías:</P>
 
-<li>Panda<li>
-<li>Matplolib<li>
-<li>Numpy<li>
+Panda
+Matplolib
+Numpy

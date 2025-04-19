@@ -2,8 +2,10 @@
 
 <h2>Instrucciones</h2>
 
-<p>Para poder ejecutar el programa necesita lo siguientes librerías:</P>
+<p>Para poder ejecutar el programa necesita las siguientes librerías:</P>
 
 - Panda
 - Matplolib
 - Numpy
+
+<p>Tambien necesita tener una cuenta en **[Google Colab](https://colab.google)**. </p>
